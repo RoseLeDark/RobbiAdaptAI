@@ -81,8 +81,7 @@ In this example, the robot receives terrain data, calculates the appropriate spe
 
 ## License
 
-This project is licensed under the GPL (General Public License) or EUPL (European Union Public License).
-You are free to use, modify, and distribute the code, as long as any derived works are also licensed under GPL or EUPL.
+This project is dual-licensed under the GPL (General Public License) or the EUPL (European Union Public License). You are free to use, modify, and distribute the code, as long as any derived works are also licensed under either the GPL or the EUPL.
 
 `SPDX-License-Identifier: GPL-3.0-or-later or EUPL-1.2`
 
