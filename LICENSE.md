@@ -14,7 +14,7 @@ For users within the **European Union (EU)**, the **RobbiAdaptAI** project is li
 - The EUPL offers legal certainty for users and contributors within the EU and is recognized by European institutions.
 
 You can find the full terms of the **EUPL** at:  
-[European Union Public License (EUPL)](LICENSE-EUPL.md) and online: https://eupl.eu/
+[European Union Public License (EUPL)](LICENSE-EUPL) and online: https://eupl.eu/
 
 ## Global License: GNU General Public License (GPL)
 
@@ -26,7 +26,7 @@ For users **outside of the European Union (EU)**, the **RobbiAdaptAI** project i
 - The **GPL** ensures that all users have the freedom to use the software, but also requires that any modified code is made available to the public under the same license.
 
 You can find the full terms of the **GPL** at:  
-[GNU General Public License (GPL)](LICENSE-GPL.md) and online: https://www.gnu.org/licenses/
+[GNU General Public License (GPL)](LICENSE-GPL) and online: https://www.gnu.org/licenses/
 
 
 ## License Compatibility
