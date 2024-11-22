@@ -84,6 +84,8 @@ In this example, the robot receives terrain data, calculates the appropriate spe
 This project is licensed under the GPL (General Public License) or EUPL (European Union Public License).
 You are free to use, modify, and distribute the code, as long as any derived works are also licensed under GPL or EUPL.
 
+`SPDX-License-Identifier: GPL-3.0-or-later or EUPL-1.2`
+
 ## Contributing
 We welcome contributions! If you'd like to improve this AI model or suggest new features, feel free to fork the project, make your changes, and submit a pull request.
 
